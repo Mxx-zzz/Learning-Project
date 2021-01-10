@@ -1,0 +1,10 @@
+E:\Learning-Project\002\TimeNow\TimeNow\bin\Debug\TimeNow.exe.config
+E:\Learning-Project\002\TimeNow\TimeNow\bin\Debug\TimeNow.exe
+E:\Learning-Project\002\TimeNow\TimeNow\bin\Debug\TimeNow.pdb
+E:\Learning-Project\002\TimeNow\TimeNow\obj\Debug\TimeNow.csprojAssemblyReference.cache
+E:\Learning-Project\002\TimeNow\TimeNow\obj\Debug\TimeNow.Form1.resources
+E:\Learning-Project\002\TimeNow\TimeNow\obj\Debug\TimeNow.Properties.Resources.resources
+E:\Learning-Project\002\TimeNow\TimeNow\obj\Debug\TimeNow.csproj.GenerateResource.cache
+E:\Learning-Project\002\TimeNow\TimeNow\obj\Debug\TimeNow.csproj.CoreCompileInputs.cache
+E:\Learning-Project\002\TimeNow\TimeNow\obj\Debug\TimeNow.exe
+E:\Learning-Project\002\TimeNow\TimeNow\obj\Debug\TimeNow.pdb
