@@ -1,0 +1,10 @@
+E:\Learning-Project\001\001\bin\Debug\001.exe.config
+E:\Learning-Project\001\001\bin\Debug\001.exe
+E:\Learning-Project\001\001\bin\Debug\001.pdb
+E:\Learning-Project\001\001\obj\Debug\_001.Frm_Main.resources
+E:\Learning-Project\001\001\obj\Debug\_001.Properties.Resources.resources
+E:\Learning-Project\001\001\obj\Debug\UseImageList.csproj.GenerateResource.cache
+E:\Learning-Project\001\001\obj\Debug\UseImageList.csproj.CoreCompileInputs.cache
+E:\Learning-Project\001\001\obj\Debug\001.exe
+E:\Learning-Project\001\001\obj\Debug\001.pdb
+E:\Learning-Project\001\001\obj\Debug\UseImageList.csprojAssemblyReference.cache
